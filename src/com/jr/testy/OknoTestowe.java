@@ -7,7 +7,7 @@ package com.jr.testy;
 
 /**
  *
- * @author Yulek
+ * @author Julian Ragan
  */
 public class OknoTestowe extends javax.swing.JFrame {
 
@@ -27,17 +27,25 @@ public class OknoTestowe extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        comments1 = new com.jr.comment.Comments();
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(64, 64, 64)
+                .addComponent(comments1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(93, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 300, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(19, 19, 19)
+                .addComponent(comments1, javax.swing.GroupLayout.PREFERRED_SIZE, 248, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(33, Short.MAX_VALUE))
         );
 
         pack();
@@ -79,5 +87,6 @@ public class OknoTestowe extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private com.jr.comment.Comments comments1;
     // End of variables declaration//GEN-END:variables
 }
