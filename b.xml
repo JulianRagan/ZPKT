@@ -1,0 +1,55 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comments>
+    <comment cid="1">
+        <contents>Jakiś komentarz</contents>
+        <timestamp>05.06.2020 11:00:00</timestamp>
+        <author aid="1">Jan Kowalski</author>
+        <edittimestamp>05.06.2020 11:00:00</edittimestamp>
+        <editor eid="1">Jan Kowalski</editor>
+        <commentingon coid="0" cstart="-1" cstop="-1"/>
+        <HTMLContent><![CDATA[<html><body>Jakiś komentarz</body></html>]]></HTMLContent>
+        <tags>
+            <tag tid="1">Tag</tag>
+            <tag tid="2">Another tag</tag>
+        </tags>
+    </comment>
+    <comment cid="2">
+        <contents>Kolejny komentarz</contents>
+        <timestamp>05.06.2020 12:00:00</timestamp>
+        <author aid="1">Jan Kowalski</author>
+        <edittimestamp>05.06.2020 12:00:00</edittimestamp>
+        <editor eid="1">Jan Kowalski</editor>
+        <commentingon coid="0" cstart="-1" cstop="-1"/>
+        <HTMLContent><![CDATA[<html><body>Jakiś komentarz</body></html>]]></HTMLContent>
+        <tags>
+            <tag tid="1">Tag</tag>
+            <tag tid="2">Another tag</tag>
+        </tags>
+    </comment>
+    <comment cid="3">
+        <contents>Stefan miał kota, który lubił grać na fortepianie. Zawsze żartował, że ten kot był reinkarnacją Szopena</contents>
+        <timestamp>05.06.2020 12:00:00</timestamp>
+        <author aid="1">Jan Kowalski</author>
+        <edittimestamp>05.06.2020 12:00:00</edittimestamp>
+        <editor eid="1">Jan Kowalski</editor>
+        <commentingon coid="0" cstart="-1" cstop="-1"/>
+        <HTMLContent><![CDATA[<html><body>Stefan miał kota, który lubił grać na fortepianie. Zawsze żartował, że ten kot był reinkarnacją Szopena</body></html>]]></HTMLContent>
+        <tags>
+            <tag tid="1">Tag</tag>
+            <tag tid="2">Another tag</tag>
+        </tags>
+    </comment>
+    <comment cid="4">
+        <contents>Janina uwielbiała gotować, jej obiady były uważane, za najsmaczniejsze na całym osiedlu. Wszyscy uwielbiali ją, jako najlepszą kucharkę.&#10; Janina miała czworo dzieci, które chodziły do szkoły razem z rówieśnikami z osiedla. Jeje najstarszy syn został przyjęty do harcerzy, a najmłodsza córka wstąpiła do szkolnego kółka szachowego </contents>
+        <timestamp>05.06.2020 12:00:00</timestamp>
+        <author aid="1">Jan Kowalski</author>
+        <edittimestamp>05.06.2020 12:00:00</edittimestamp>
+        <editor eid="1">Jan Kowalski</editor>
+        <commentingon coid="0" cstart="-1" cstop="-1"/>
+        <HTMLContent><![CDATA[<html><body>Janina uwielbiała gotować, jej obiady były uważane, za najsmaczniejsze na całym osiedlu. Wszyscy uwielbiali ją, jako najlepszą kucharkę.<br>Janina miała czworo dzieci, które chodziły do szkoły razem z rówieśnikami z osiedla. Jeje najstarszy syn został przyjęty do harcerzy, a najmłodsza córka wstąpiła do szkolnego kółka szachowego</body></html>]]></HTMLContent>
+        <tags>
+            <tag tid="1">Tag</tag>
+            <tag tid="2">Another tag</tag>
+        </tags>
+    </comment>
+</comments>

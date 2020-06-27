@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<comments>
+    <comment cid="1">
+        <contents>Jakiś komentarz</contents>
+        <timestamp>05.06.2020 11:00:00</timestamp>
+        <author aid="2">Józef Kowalski</author>
+        <edittimestamp>05.06.2020 11:00:00</edittimestamp>
+        <editor eid="2">Józef Kowalski</editor>
+        <commentingon coid="0" cstart="-1" cstop="-1"/>
+        <HTMLContent><![CDATA[<html><body>Jakiś komentarz</body></html>]]></HTMLContent>
+        <tags>
+            <tag tid="1">Tag</tag>
+            <tag tid="2">Another tag</tag>
+        </tags>
+    </comment>
+</comments>
