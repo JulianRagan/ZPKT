@@ -9,8 +9,6 @@
         <commentingon coid="0" cstart="-1" cstop="-1"/>
         <HTMLContent><![CDATA[<html><body>Jakiś komentarz</body></html>]]></HTMLContent>
         <tags>
-            <tag tid="1">Tag</tag>
-            <tag tid="2">Another tag</tag>
         </tags>
     </comment>
 </comments>
